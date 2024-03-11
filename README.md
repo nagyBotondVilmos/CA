@@ -1,7 +1,7 @@
 # Author
 Nagy Botond-Vilmos
 
-# About
+# Description
 This repository is created in order to show my knowledge in the field of computer architecture.
 
 # Content
