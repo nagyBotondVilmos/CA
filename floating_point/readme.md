@@ -1,10 +1,11 @@
-# Author: Nagy Botond-Vilmos
+# Author
+Nagy Botond-Vilmos
 
 # Floating point numbers
 This directory contains the implementation of most commonly used functions for floating point numbers.
 
 # Files
-- `float.asm`: a mixed code which contains the implementation as well as the test case
+`float.asm`: a mixed code which contains the implementation as well as the test case
     ReadStr, WriteStr, ReadInt, WriteInt    - see the `num_and_str` directory
     ReadFloat():(XMM0)                      - reads a float from the standard input
     WriteFloat(XMM0):()                     - writes a float to the standard output
