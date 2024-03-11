@@ -1,10 +1,10 @@
 # Author
 Nagy Botond-Vilmos
 
-# Floating point numbers
+# Description
 This directory contains the implementation of most commonly used functions for floating point numbers.
 
-# Files
+# Content
 `float.asm`: a mixed code which contains the implementation as well as the test case
 - ReadStr, WriteStr, ReadInt, WriteInt    - see the `num_and_str` directory
 - ReadFloat():(XMM0)                      - reads a float from the standard input
@@ -22,3 +22,5 @@ To test the procedures, you can use the `test_fp.bat` file.
 # Final notes
 - in order to be able to run the tests, you have to use Windows
 - all files except which I mentioned are not mine, they are provided by the university
+
+[Back](../README.md)

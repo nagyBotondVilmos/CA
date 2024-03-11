@@ -1,10 +1,10 @@
 # Author
 Nagy Botond-Vilmos
 
-# Numbers and strings
+# Description
 This directory contains the implementation of most commonly used functions for numerbers and strings in x86 Assembly.
 
-# Files
+# Content
 `ionum.asm`: integral number input/output procedures
 - ReadInt():(EAX)         - 32 bit signed integer read
 - WriteInt(EAX):()        - 32 bit signed integer write
@@ -55,3 +55,5 @@ They contain the following tests:
 # Final notes
 - in order to be able to run the tests, you have to use Windows
 - all files except which I mentioned are not mine, they are provided by the university
+
+[Back](../README.md)
