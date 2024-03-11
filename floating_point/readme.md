@@ -17,6 +17,7 @@ To test the procedures, you can use the `test_fp.bat` file.
 - reads 2 floats in normal form and writes them in exponential form (a, c)
 - reads 2 floats in exponential form and writes them in normal form (b, d)
 - calculates the E expression and writes the result in normal and exponential form to the standard output:
+
 `E(a,b,c,d) = max(a - d / 5, b + a) + sqrt(c + 3 * d / 4) - d^3`
 
 # Final notes
