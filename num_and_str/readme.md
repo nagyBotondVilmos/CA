@@ -39,7 +39,8 @@ Note: ESI is used as a pointer to the string and ECX is used as the maximum leng
                                 space (32), tab (9), carriage return (13), line feed (10)
 
 # Testing
-To test the procedures, you can use the `test_num.bat` and `test_str.bat` files for which I created 2 test cases for each procedure.
+To test the procedures, you can use the `test_num.bat` and `test_str.bat` files.
+They contain the following tests:
 - numbers (`iopelda.asm`):
     - reads 3 32 bit integers and writes them in decimal, binary and hexadecimal
     - adds the 3 numbers and writes the result in decimal, binary and hexadecimal
